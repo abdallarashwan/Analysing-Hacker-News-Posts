@@ -1,4 +1,4 @@
-# Analysing-Hacker-News-Posts
+# __Analysing Hacker News Posts__
 
 Hacker News is a social news website created by Y Combinator which is a seed money startup accelerator headquartered in the United States. Hacker News is specially popular in tech startup scene. People can make different types of posts and users can up/down vote the posts as well as make comments.
 
